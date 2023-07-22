@@ -1,3 +1,5 @@
+<img src="Banner LinkedIn.png">
+
 ### Hi there 👋
 
 <!--
