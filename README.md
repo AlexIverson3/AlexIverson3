@@ -1,6 +1,6 @@
-<img src="Banner LinkedIn.png">
+### Hola soy Alejandro González!! 👋
 
-### Hi there 👋
+<img src="banner_home.png">
 
 <!--
 **AlexIverson3/AlexIverson3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
